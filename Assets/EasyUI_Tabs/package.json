@@ -1,0 +1,29 @@
+{
+    "name": "com.herbou.easyui.tabs",
+    "version": "2.0.1",
+    "displayName": "EasyUI_Tabs",
+    "description": "EasyUI_Tabs is a Unity UI plugin to create Tab UI easily without making it from scratch.",
+    "unity": "2019.1",
+    "unityRelease": "0b5",
+    "documentationUrl": "https://github.com/kiraio-moe/EasyUI_Tabs#how-to-use",
+    "changelogUrl": "https://github.com/kiraio-moe/EasyUI_Tabs/blob/main/CHANGELOG.md",
+    "licensesUrl": "https://github.com/kiraio-moe/EasyUI_Tabs/blob/main/LICENSE",
+    "dependencies": { },
+    "keywords": [
+        "ui-tabs",
+        "unity-ui"
+    ],
+    "author": {
+        "name": "Hamza Herbou",
+        "url": "https://github.com/herbou"
+    },
+    "type": "library",
+    "category": "UI Plugin",
+    "samples": [
+        {
+            "displayName": "Tabs UI Demo",
+            "description": "Demo contains how to use Tabs UI.",
+            "path": "Samples"
+        }
+    ]
+}
